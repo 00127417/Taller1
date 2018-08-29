@@ -1,0 +1,24 @@
+body{
+    background: #767de4;
+}
+
+h1{
+    font-family: 'Sawarabi Mincho', sans-serif;
+    font-weight: 100;
+    font-size: 3em;
+}
+
+.panel{
+    margin: 0; 
+ }
+ .panel{
+    background-color: whitesmoke;
+    padding: 0.5em;
+    border: 0.5em solid black;
+    margin: 10px auto;
+    width: 50%;
+    box-shadow: 2px 2px 3px #928a926e;
+}
+/*div.icon{
+    background: black;
+}*/
